@@ -30,6 +30,4 @@ I’m excited to keep refining this app by:
 - **Exploring additional languages** and extending the app’s multilingual capability.
 - **Enabling user feedback** to iterate on the model and results.
 
-Check out my project on GitHub [Link to GitHub repository] and feel free to share your thoughts!
 
-#AI #MachineLearning #NLP #ImageGeneration #Translation #AIinArt #DeepLearning #LinkedInProjectShowcase #Streamlit
