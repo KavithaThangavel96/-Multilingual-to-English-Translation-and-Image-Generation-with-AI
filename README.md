@@ -29,5 +29,8 @@ I’m excited to keep refining this app by:
 - **Improving generation speed** and efficiency.
 - **Exploring additional languages** and extending the app’s multilingual capability.
 - **Enabling user feedback** to iterate on the model and results.
+![1](https://github.com/user-attachments/assets/9071cc53-0d92-4d65-9104-8d7974222617)
+![2](https://github.com/user-attachments/assets/27e2aab9-49bc-47b4-b972-c37ac28b975b)
+
 
 
